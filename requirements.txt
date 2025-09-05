@@ -1,0 +1,18 @@
+# Core dependencies
+python-telegram-bot>=20.0
+aiosqlite>=0.19.0
+asyncio
+
+# Optional dependencies for better performance
+aiodns>=3.0.0  # For faster DNS resolution
+cchardet>=2.1.7  # For faster character encoding detection
+Brotli>=1.0.9  # For Brotli compression support
+
+# Development dependencies (optional)
+# pytest>=7.0.0
+# pytest-asyncio>=0.21.0
+# black>=23.0.0
+# flake8>=6.0.0
+
+# System monitoring (optional)
+# psutil>=5.9.0  # For process management
