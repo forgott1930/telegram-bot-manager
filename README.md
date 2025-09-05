@@ -29,7 +29,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/yourusername/telegram-bot-manager.git
+git clone https://github.com/forgott1930/telegram-bot-manager.git
 cd telegram-bot-manager
 ```
 
@@ -154,12 +154,13 @@ MIT License - см. файл [LICENSE](LICENSE)
 
 ## 📞 Поддержка
 
-Если у вас есть вопросы или проблемы, создайте [issue](https://github.com/yourusername/telegram-bot-manager/issues) на GitHub.
+Если у вас есть вопросы или проблемы, создайте [issue](https://github.com/forgott1930/telegram-bot-manager/issues) на GitHub.
 
 ---
 
 
 **⚠️ Важно:** Не забудьте заменить токены и ID в конфигурации перед использованием!
+
 
 
 
