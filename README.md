@@ -1,5 +1,9 @@
-TON - UQBcrxHItEtUjlaQ46ifRTua5SGgQYevrDTLrQJNgxMbQ1Kp
-TRON - TAayKCQ7fXsCQfuBhq5R9p2n8ZsgVXV5h5
+# TON - UQBcrxHItEtUjlaQ46ifRTua5SGgQYevrDTLrQJNgxMbQ1Kp
+
+# TRON - TAayKCQ7fXsCQfuBhq5R9p2n8ZsgVXV5h5
+
+
+
 # Telegram Bot Manager 🤖
 
 Мощная система управления множественными Telegram ботами с асинхронной рассылкой и централизованным управлением.
@@ -168,4 +172,5 @@ MIT License - см. файл [LICENSE](LICENSE)
 
 
 **⚠️ Важно:** Не забудьте заменить токены и ID в конфигурации перед использованием!
+
 
